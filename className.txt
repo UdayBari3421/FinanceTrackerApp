@@ -1,0 +1,15 @@
+.navbar = "bg-[var(--theme)] p-6 sticky top-0 left-0 w-full flex justify-between items-center"
+
+.logo = "text-[var(--white)] font-medium text-[1.2rem]"
+
+.wrapper = "flex justify-center items-center w-screen h-[90vh]"
+
+.signup-wrapper = "w-[70%] max-w-[600px] shadow-own-uday h-auto rounded-2xl p-4"
+
+.title = "font-medium text-[1.2rem] text-center" 
+
+.input-wrapper = ""
+
+.input-label = ""
+
+.custom-input = "" 
